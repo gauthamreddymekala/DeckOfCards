@@ -1,0 +1,11 @@
+C:\Users\adars\source\repos\DeckOfCards.cs\DeckOfCards.cs\bin\Debug\netcoreapp2.0\DeckOfCards.deps.json
+C:\Users\adars\source\repos\DeckOfCards.cs\DeckOfCards.cs\bin\Debug\netcoreapp2.0\DeckOfCards.runtimeconfig.json
+C:\Users\adars\source\repos\DeckOfCards.cs\DeckOfCards.cs\bin\Debug\netcoreapp2.0\DeckOfCards.runtimeconfig.dev.json
+C:\Users\adars\source\repos\DeckOfCards.cs\DeckOfCards.cs\bin\Debug\netcoreapp2.0\DeckOfCards.dll
+C:\Users\adars\source\repos\DeckOfCards.cs\DeckOfCards.cs\bin\Debug\netcoreapp2.0\DeckOfCards.pdb
+C:\Users\adars\source\repos\DeckOfCards.cs\DeckOfCards.cs\obj\Debug\netcoreapp2.0\DeckOfCards.csprojResolveAssemblyReference.cache
+C:\Users\adars\source\repos\DeckOfCards.cs\DeckOfCards.cs\obj\Debug\netcoreapp2.0\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\adars\source\repos\DeckOfCards.cs\DeckOfCards.cs\obj\Debug\netcoreapp2.0\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\adars\source\repos\DeckOfCards.cs\DeckOfCards.cs\obj\Debug\netcoreapp2.0\DeckOfCards.AssemblyInfo.cs
+C:\Users\adars\source\repos\DeckOfCards.cs\DeckOfCards.cs\obj\Debug\netcoreapp2.0\DeckOfCards.dll
+C:\Users\adars\source\repos\DeckOfCards.cs\DeckOfCards.cs\obj\Debug\netcoreapp2.0\DeckOfCards.pdb
